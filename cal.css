@@ -1,0 +1,236 @@
+.calc-body{
+height: 550px;
+width: 400px;
+background-color: black;
+border-radius: 30px;
+left: 500px;
+top: 42px;
+position: absolute;
+}
+input{
+    position: absolute;
+    /* left: 40px; */
+    height: 45px;
+    width: 280px;
+right: 50px;
+    top: 25px;
+    border-radius: 14px;
+    border: transparent;
+    font-size: 25px;
+    background-color: white;
+}
+.buttons{
+    height: 430px;
+    width: 330px;
+    background-color: black;
+    border-radius: 14px;
+    position: absolute;
+    top: 110px;
+    left: 50px;
+}
+#add{
+    position: absolute;
+    height: 60px;
+    width: 60px;
+    border-radius: 50%;
+top: 12px;
+border: none;
+left: 15px;
+font-size: 20px;
+color: white;
+background-color:rgb(255, 146, 4) ;
+}
+#minus{
+    position: absolute;
+    height: 60px;
+    width: 60px;
+    border-radius: 50%;
+top: 94px;
+left: 15px;
+border: none;
+background-color:rgb(255, 146, 4) ;
+font-size: 20px;
+color: white;
+}
+#multi{
+    position: absolute;
+    height: 60px;
+    width: 60px;
+    border-radius: 50%;
+    background-color:rgb(255, 146, 4) ;
+top: 176px;
+left: 15px;
+border: none;
+font-size: 20px;
+color: white;
+}
+#divide{
+    position: absolute;
+    background-color:rgb(255, 146, 4) ;
+    height: 60px;
+    width: 60px;
+    border-radius: 50%;
+top: 260px;
+left: 15px;
+border: none;
+font-size: 20px;
+color: white;
+}
+#clear{
+    position: absolute;
+    background-color:rgb(255, 146, 4) ;
+    height: 60px;
+    width: 60px;
+    border-radius: 50%;
+top: 346px;
+left: 15px;
+color: white;
+border: none;
+font-size: 18px;
+}
+#zero{
+    position: absolute;
+    height: 60px;
+    width: 60px;
+    border-radius: 50%;
+    background-color: #1a1a1a;
+top: 260px;
+border: none;
+color: white;
+color: white;
+left: 95px;
+font-size: 18px;
+}
+#dot{
+    position: absolute;
+    height: 60px;
+    width: 60px;
+    border-radius: 50%;
+top: 260px;
+border: none;
+left: 167px;
+background-color: #1a1a1a ;
+color: white;
+font-size: 25px;
+text-align: center;
+}
+#eq{
+    position: absolute;
+    height: 60px;
+    width: 60px;
+    border-radius: 50%;
+    background-color: rgb(255, 146, 4) ;
+top: 260px;
+border: none;
+left: 237px;
+font-size: 20px;
+color: white;
+}
+#one{
+    position: absolute;
+    height: 60px;
+    width: 60px;
+    border-radius: 50%;
+    background-color: #1a1a1a;
+top: 176px;
+border: none;
+left: 95px;
+font-size: 18px;
+color: white;
+}
+#two{
+    position: absolute;
+    height: 60px;
+    width: 60px;
+    border-radius: 50%;
+    background-color: #1a1a1a ;
+top: 176px;
+border: none;
+left: 167px;
+color: white;
+font-size: 18px;
+}
+#thre{
+    position: absolute;
+    height: 60px;
+    width: 60px;
+    border-radius: 50%;
+    background-color: #1a1a1a;
+top: 176px;
+border: none;
+left: 237px;
+color: white;
+font-size: 18px;
+}
+#four{
+    position: absolute;
+    height: 60px;
+    width: 60px;
+    border-radius: 50%;
+top: 94px;
+left: 95px;
+border: none;
+background-color: #1a1a1a ;
+font-size: 18px;
+color: white;
+}
+#five{
+    position: absolute;
+    height: 60px;
+    width: 60px;
+    border-radius: 50%;
+top: 94px;
+left: 167px;
+border: none;
+background-color:#1a1a1a;
+font-size: 18px;
+color: white;
+}
+#six{
+    position: absolute;
+    height: 60px;
+    width: 60px;
+    border-radius: 50%;
+top: 94px;
+left: 237px;
+border: none;
+background-color:#1a1a1a;
+font-size: 18px;
+color: white;
+}
+#sev{
+    position: absolute;
+    height: 60px;
+    width: 60px;
+    border-radius: 50%;
+top: 12px;
+border: none;
+left: 95px;
+font-size: 18px;
+background-color:#1a1a1a;
+color: white;
+}
+#eig{
+    position: absolute;
+    height: 60px;
+    width: 60px;
+    border-radius: 50%;
+top: 12px;
+border: none;
+left: 167px;
+font-size: 18px;
+background-color:#1a1a1a ;
+color: white;
+}
+#nin{
+    position: absolute;
+    height: 60px;
+    width: 60px;
+    border-radius: 50%;
+top: 12px;
+border: none;
+left: 237px;
+font-size: 18px;
+background-color:#1a1a1a;
+color: white;
+}
